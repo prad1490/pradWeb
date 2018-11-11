@@ -89,14 +89,13 @@ img {
     background-position: left bottom;
     bottom: 0%;	
 }
-
-@media (min-width: 320px) and (max-width: 480px) {
+@media screen and (max-width: 767px) {
   img{
 	position: absolute;
     background: url(../img/developer.png) no-repeat;
     /* top: 50%; */
     left: 0%;
-    width: 335px;
+    width: 330px;
     height: 393px;
     /* margin-top: -250px; */
     margin-left: -12px;
