@@ -51,7 +51,7 @@ table {
 /*RESET CSS END*/
 
 .comingSoon{
-	background: url("../img/imuidev_under_construction.jpg")  no-repeat;
+	background: url("../img/imuidev_under_construction.png")  no-repeat;
 	background-position: center center;
 	background-size:  contain;
 	background-attachment: fixed;
